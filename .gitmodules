@@ -1,0 +1,3 @@
+[submodule "Crawling/AutoCrawler"]
+	path = Crawling/AutoCrawler
+	url = https://github.com/YoongiKim/AutoCrawler
